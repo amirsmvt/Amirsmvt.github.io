@@ -10,5 +10,5 @@ title: Website
 <br>
 سایتی که درست کردم برای استاد آقای زارع پور بود که ایشان درس دیتابیس را ارائه می دهند
 <br>
-* [سایت](https://amirsmvt.github.ir/Database)
+* [سایت](https://amirsmvt.github.com/Database)
 <br>
