@@ -1,11 +1,6 @@
 ---
-layout: single
-author_profile: true
-permalink: /Course Website/
-title: Database Website
-tags: [Course Website]
-modified: 8-01-2020
-comments: true
+layout: posts
+title: Website
 ---
 
 
